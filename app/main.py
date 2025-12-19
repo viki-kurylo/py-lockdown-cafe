@@ -1,4 +1,3 @@
-import datetime
 from app.errors import (OutdatedVaccineError,
                         NotWearingMaskError,
                         NotVaccinatedError)
